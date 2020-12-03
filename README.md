@@ -16,3 +16,6 @@ Its very easy to as u can just clone it into repl and follow the instructions!
 JOIN - https://discord.gg/mCJVQFj8kh FOR SUPPORT OR HELP!
 
 
+**Or u can try it on VSC**
+
+
