@@ -13,4 +13,6 @@ Its very easy to as u can just clone it into repl and follow the instructions!
 
 **YOU MAY NOT REMOVE ANY CREDITS!**
 
+JOIN - https://discord.gg/mCJVQFj8kh FOR SUPPORT OR HELP!
+
 
