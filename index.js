@@ -102,8 +102,8 @@ client.on("message", async message => {
               return message.channel.send("Moderation system is not setuped in this server, use " + prefix + "setup")
           }
 
-          if(!message.member.roles.cache.find((x) => x.name == "SUPPORTER")) {
-              return message.channel.send("You need supporter role to use this command")
+          if(!message.member.roles.cache.find((x) => x.name == "Modmail")) {
+              return message.channel.send("You need modmail role to use this command")
           }
 
           if(isNaN(args[0]) || !args.length) {
